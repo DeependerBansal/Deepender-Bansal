@@ -15,7 +15,7 @@
   <table style="background-color: #000000; border: 2px solid #00ff00;">
     <tr>
       <td align="center">
-         <p style="color: #00ff00; font-family: monospace;">[!] ACTIVE EXPLOIT KITS:</p>
+         <p style="color: #00ff00; font-family: monospace;">ACTIVE EXPLOIT KITS:</p>
          <img src="https://skillicons.dev/icons?i=linux,kali,python,c,cpp,git,bash,docker&perline=8&theme=dark" />
       </td>
     </tr>
